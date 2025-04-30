@@ -44,8 +44,7 @@ pip install pygame
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/flappy-bird-pygame.git
-cd flappy-bird-pygame
+git clone https://github.com/unusual9guy/Flappy-Bird.git
 ```
 
 2. **Ensure assets are in place:**
@@ -142,8 +141,11 @@ python main.py
 ---
 
 ## 📸 Screenshots
+ <p float="left">
+  <img src="StartGame.png" width="200"/>
+  <img src="EndGame.png" width="200"/>
+</p>
 
-> *(Add gameplay or menu screenshots here if desired)*
 
 ---
 
